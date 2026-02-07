@@ -2,6 +2,8 @@
 
 Advanced camera event → webhook forwarding for Milestone XProtect
 
+**Disclaimer:** This project uses Milestone's public API and is not affiliated with or endorsed by Milestone Systems.
+
 ## Description
 
 AlarmEvent Bridge connects to Milestone XProtect via their API and forwards camera analysis events as webhooks to your alarm center when alarms are active.
