@@ -1,0 +1,54 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.xml
+
+# Installer (keep the compiled installer)
+!installer/*.exe
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Config files (user-specific)
+Credentials.json
+Credentials.ps1
+WebhookConfig.json
+error.log
+*.log
+
+# Visual Studio
+.vs/
+*.vsidx
+*.vspscc
+
+# ReSharper
+_ReSharper*/
+*.ReSharper.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Documentation (keep only README.md)
+PRODUCTION_SETUP.md
+CREATE_INSTALLER.md
+TECHNICAL_REVIEW.md
+GUI_ICON_RECOMMENDATIONS.md
+LÖSNING_HP_MANA_LEVEL.md
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
