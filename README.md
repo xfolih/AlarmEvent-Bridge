@@ -45,7 +45,7 @@ AlarmEvent Bridge connects to Milestone XProtect via their API and forwards came
 
 ## License
 
-GPL-3.0
+MIT
 
 ## Repository
 
